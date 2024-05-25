@@ -54,6 +54,11 @@ Each homework folder contains the respective Jupyter notebooks with my solutions
 ### Phase Two: 
 - Developed a multi-modal classification model combining ResNet for feature extraction and a customized MLP for classification.
 
+
+## Submodules
+
+- [Existing Repo](https://github.com/baktash81/Persian_Sentiment_Analysis)
+
 ## Course Materials
 
 This repository also includes the instructor's slides in both Persian and English, which were used throughout the course for lectures and explanations.
